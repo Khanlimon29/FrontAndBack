@@ -3,3 +3,5 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
 - [Публичная страница на GitHub Pages](https://Khanlimon29.github.io/FrontAndBack/)
+## QR-код
+![](assets/img/qrcode.png)
